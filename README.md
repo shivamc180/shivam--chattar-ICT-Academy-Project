@@ -1,1 +1,2 @@
-# shivam--chattar-ICT-Academy-Project
+# mslearn-ai-language
+Lab files for Azure AI Language modules
